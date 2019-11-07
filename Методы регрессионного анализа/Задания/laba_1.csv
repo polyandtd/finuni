@@ -1,0 +1,13 @@
+name,date,city,type,avg_bill,competitors
+Calzedonia,1995-01-01,Moscow,underwear,1900,Intimissimi
+Ecco,1995-02-02,Perm,Shoes,7000,Geox
+Gucci,1996-03-03,Balashikha,,25000,Louis Vuitton
+Dior,1998-04-04,Reutov,Fragrance,30000,Chanel
+Prada,2000-05-05,Khimki,Clothes,10000,Fendi
+BlackStar,2013-06-06,Magnitogorsk,Food,2500,Farsh
+GAP,2000-07-07,Chelyabinksk,,7000,H&M
+Calvin,1993-08-08,Astrakhan,,18000,Hilfiger
+Huawei,1982-09-09,Saint-Petersburg,Electronics,18000,Samsung
+Lacoste,1993-10-10,Moscow,Clothes,9000,
+Timberland,2017-11-11,Saint-Petersburg,Clothes,9000,Dr. Martens
+Adidas,2018-12-12,Krasnodar,Sports,3000,Nike
